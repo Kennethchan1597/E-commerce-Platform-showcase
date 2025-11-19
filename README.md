@@ -47,17 +47,13 @@ The full source code is private; this repository showcases the architecture, key
 
 ### Architecture Diagram 🏛️
 <p align="center">
-  <img src="/architecture.png" alt="architecture" width="100%" />
-</p>
-
-### Flow Diagram 📊
-<p align="center">
-  <img src="/file.png" alt="dataflow" width="100%" />
+  <img src="/Architecture.png" alt="architecture" width="100%" />
 </p>
 
 ## Demonstration 🧪
 <p align="center">
-  <img src="/postman.png" alt="postman" width="100%" />
+  <img src="/demo_1.jpg" alt="demo1" width="45%" />
+  <img src="/demo_2.jpg" alt="demo2" width="45%" />
 </p>
 
 ## Key Takeaways 🚀
